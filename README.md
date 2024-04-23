@@ -8,4 +8,3 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [aimeeeqnguyen@gmail.com](aimeeeqnguyen@gmail.com) 
 - 😄 Pronouns: she/her
-

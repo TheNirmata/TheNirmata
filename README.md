@@ -10,6 +10,5 @@
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNirmata&theme=blue-green)](https://github.com/TheNirmata/github-readme-stats)
 
 ## Sponsor Me 💛 
-### Pateron and Ko-Fo coming soon!
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/TheNirmata/)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/TheNirmata)
